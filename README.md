@@ -9,7 +9,8 @@
  .
 ├── Task1_hyperparamer_tuning.ipynb
 ├── Task1_main.ipynb
-└── Task2.py
+├── Task2.py
+└── requirements.txt
 ```
 
 
